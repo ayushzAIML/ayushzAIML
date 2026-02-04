@@ -1,5 +1,5 @@
 # 💫 About Me:
-“B.Tech AI/ML | Python, SQL, Java | Pandas, NumPy, scikit-learn | EDA & Preprocessing | Turning obsession into skills”
+“B.Tech AI/ML | Python, SQL, Java | NLP , FastAPI  , Model Development | Turning obsession into skills”
 
 
 ## 🌐 Socials:
